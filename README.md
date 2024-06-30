@@ -5,7 +5,7 @@ A Test Task for AI Pickels - for the position of Junior Python Developer
 ## Setup instrictions:
 ### 1. Create a virtual environment:
 
-`python -m venv env
+`python3 -m venv env
 source env/bin/activate`  # On Windows use `env\Scripts\activate`
 
 ### 2. Install dependencies:
