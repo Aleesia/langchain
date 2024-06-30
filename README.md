@@ -11,7 +11,7 @@ A Test Task for AI Pickels - for the position of Junior Python Developer
 
 ### 2. Install dependencies:
 
-`pip install fastapi uvicorn langchain`
+`pip install fastapi uvicorn langchain langchain_community`
 
 ## Run instructions:
 ### 1. Run the application:
