@@ -12,7 +12,8 @@ A Test Task for AI Pickels - for the position of Junior Python Developer
 ### 2. Install dependencies:
 
 `pip install fastapi uvicorn langchain langchain_openai`
-
+### 3. Insert your OpenAI API Key.
+Open the file `main.py` in a text editor, and in line 9 replace `"your_api_key"` with your OpenAI API Key.
 ## Run instructions:
 ### 1. Run the application:
 Navigate to virtualenv: 
