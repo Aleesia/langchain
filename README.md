@@ -15,6 +15,8 @@ A Test Task for AI Pickels - for the position of Junior Python Developer
 
 ## Run instructions:
 ### 1. Run the application:
+Navigate to virtualenv: 
+`cd env`
 
 `uvicorn main:app --reload`
 
