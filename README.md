@@ -11,7 +11,7 @@ A Test Task for AI Pickels - for the position of Junior Python Developer
 
 ### 2. Install dependencies:
 
-`pip install fastapi uvicorn langchain langchain_community`
+`pip install fastapi uvicorn langchain langchain_openai`
 
 ## Run instructions:
 ### 1. Run the application:
@@ -26,7 +26,5 @@ Send a POST request to http://127.0.0.1:8000/summarize with a JSON body containi
 
 ### Details:
 You can run the program test_application.py: navigate to the folder that contains test_application.py;
-in terminal, print:
 
-`python3 test_application.py
-`
+`python3 test_application.py`
